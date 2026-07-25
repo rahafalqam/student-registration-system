@@ -1,0 +1,12 @@
+Maya Saleh#1210101#English Literature#ENG220#Modern Poetry#3#Fall 2024
+Tareq Hammad#1211111#Mathematics#MTH230#Linear Algebra#3#Spring 2025
+Tareq Hammad#1211156#English Literature#ENG220#Modern Poetry#3#Fall 2024
+Sara Mahmoud#1223121#Computer Science#COMP242#Operating Systems#3#Fall 2024
+Sara Mahmoud#1223121#Computer Science#ME210#Thermodynamics I#4#Fall 2024
+Tareq Hasan#1233333#Business Administration#BUSA120#Marketing Principles#3#Spring 2025
+Lina Ahmad#1244444#Information Technology#IT201#Database Fundamentals#3#Fall 2024
+Omar Khaled#1255555#Mechanical Engineering#ME210#Thermodynamics I#4#Spring 2025
+Reem Nasser#1266666#Accounting#ACC150#Financial Accounting#3#Fall 2024
+Yousef Ali#1277777#Civil Engineering#CE105#Engineering Drawing#2#Spring 2025
+Haneen Sami#1288888#Psychology#PSY101#Introduction to Psychology#3#Fall 2024
+Khaled Hasan#1299999#Nursing#NUR110#Fundamentals of Nursing#4#Spring 2025
